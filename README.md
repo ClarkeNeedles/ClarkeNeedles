@@ -11,4 +11,4 @@ These are the projects I am working on.
 - [portfolio-new](https://github.com/ClarkeNeedles/portfolio-new)
 
 ### :octocat: Statistics
-![Top Languages](https://ghstats.dev/api/langs?username=ClarkeNeedles&theme=dark&max_langs=10&hide=jupyter%20notebook)
+![Top Languages](https://ghstats.dev/api/langs?username=ClarkeNeedles&theme=dark&max_langs=10)
