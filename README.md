@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there :wave:
 
-<!--
-**ClarkeNeedles/ClarkeNeedles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Clarke Needles, welcome to my GitHub profile. I'm a Computer Engineering student at Queen's and a Firmware Designer at Semtech, currently living in Ottawa, Canada.
 
-Here are some ideas to get you started:
+### :hammer: Check out what I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are the projects I am working on.
+
+- [freertos-can-telematics](https://github.com/ClarkeNeedles/freertos-can-telematics)
+- [cuda-opengl-fractals](https://github.com/ClarkeNeedles/cuda-opengl-fractals)
+- [portfolio-new](https://github.com/ClarkeNeedles/portfolio-new)
+
+### :octocat: Statistics
+![Top Languages](https://ghstats.dev/api/langs?username=ClarkeNeedles&theme=dark&max_langs=10&hide=jupyter%20notebook)
