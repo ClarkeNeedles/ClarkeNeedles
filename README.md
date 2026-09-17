@@ -4,8 +4,6 @@ I'm Clarke Needles, welcome to my GitHub profile. I'm a Computer Engineering stu
 
 ### :hammer: Check out what I'm currently working on
 
-These are the projects I am working on.
-
 - [freertos-can-telematics](https://github.com/ClarkeNeedles/freertos-can-telematics)
 - [cuda-opengl-fractals](https://github.com/ClarkeNeedles/cuda-opengl-fractals)
 - [portfolio-new](https://github.com/ClarkeNeedles/portfolio-new)
