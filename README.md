@@ -9,4 +9,4 @@ I'm Clarke Needles, welcome to my GitHub profile. I'm a Computer Engineering stu
 - [portfolio-new](https://github.com/ClarkeNeedles/portfolio-new)
 
 ### :octocat: Statistics
-![Top Languages](https://ghstats.dev/api/langs?username=ClarkeNeedles&theme=dark&max_langs=10)
+![Top Languages](https://ghstats.dev/api/langs?username=ClarkeNeedles&theme=midnight&max_langs=10)
